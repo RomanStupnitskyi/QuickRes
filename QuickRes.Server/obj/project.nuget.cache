@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3FezT3KMxE=",
+  "success": true,
+  "projectFilePath": "/Users/romanstupnitskyi/RiderProjects/QuickRes/QuickRes.Server/QuickRes.Server.csproj",
+  "expectedPackageFiles": [
+    "/Users/romanstupnitskyi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/Users/romanstupnitskyi/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
